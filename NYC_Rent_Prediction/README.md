@@ -1,4 +1,3 @@
-# homework-ii-amla26
-homework-ii-amla26 created by GitHub Classroom
+# NYC Rent Prediction
 
-AML Homework Assignment 2 : Submitted by Amla Srivastava (as5196) and Kaavya Chinniah (kc3057)
+Machine learning regression model to predict the monthly rent of an apartment in New York City based on Census data
